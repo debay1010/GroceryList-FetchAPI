@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Kulikuli"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "Milk"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "bread"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "gaari"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "pizza"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "almala"
+    },
+    {
+      "id": 11,
+      "checked": false,
+      "item": "gbegiri"
+    }
+  ]
+}
